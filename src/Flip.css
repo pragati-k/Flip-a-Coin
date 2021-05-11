@@ -1,4 +1,19 @@
-.Flip img{
+.Flip img {
     width: 350px;
     height: 350px;
+}
+
+button {
+    margin-top: 10px;
+    ;
+    background-color: white;
+    color: brown;
+    border-radius: 12px;
+    border: 2px solid brown;
+    padding: 12px 28px;
+}
+
+button:hover {
+    background-color: brown;
+    color: white;
 }
